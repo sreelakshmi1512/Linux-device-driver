@@ -1,0 +1,1 @@
+cmd_/home/natarajan/Data/Linux_internals/BIT/Linux_DeviceDriver/day2/static/hello.mod := { echo  /home/natarajan/Data/Linux_internals/BIT/Linux_DeviceDriver/day2/static/hello.o;  echo; } > /home/natarajan/Data/Linux_internals/BIT/Linux_DeviceDriver/day2/static/hello.mod
